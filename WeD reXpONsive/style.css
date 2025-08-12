@@ -1,0 +1,47 @@
+html {
+            scroll-behavior: smooth;
+        }
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f5f5f5;
+        }
+        .navbar {
+            background-color: #343a40;
+        }
+        .navbar-brand, .nav-link {
+            color: #ffffff !important;
+        }
+        .hero-section {
+            background: url('https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/c06be7d2-1b34-4e48-9f46-4b8cb905a76f.png') no-repeat center center;
+            background-size: cover;
+            color: white;
+            padding: 100px 0;
+            text-align: center;
+        }
+        .carousel-item img {
+            height: 500px;
+            object-fit: cover;
+        }
+        .section-title {
+            margin: 40px 0;
+            text-align: center;
+            font-size: 2.5rem;
+            color: #343a40;
+        }
+        .card-game {
+            margin-bottom: 30px;
+        }
+        .contact-form {
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background-color: #343a40;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+    
+        
